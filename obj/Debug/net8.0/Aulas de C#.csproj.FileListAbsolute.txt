@@ -1,0 +1,14 @@
+/home/kyuubyn/Documentos/dio/Aulas de C#/bin/Debug/net8.0/Aulas de C#
+/home/kyuubyn/Documentos/dio/Aulas de C#/bin/Debug/net8.0/Aulas de C#.deps.json
+/home/kyuubyn/Documentos/dio/Aulas de C#/bin/Debug/net8.0/Aulas de C#.runtimeconfig.json
+/home/kyuubyn/Documentos/dio/Aulas de C#/bin/Debug/net8.0/Aulas de C#.dll
+/home/kyuubyn/Documentos/dio/Aulas de C#/bin/Debug/net8.0/Aulas de C#.pdb
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.AssemblyInfoInputs.cache
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.AssemblyInfo.cs
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.csproj.CoreCompileInputs.cache
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.dll
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/refint/Aulas de C#.dll
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.pdb
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/Aulas de C#.genruntimeconfig.cache
+/home/kyuubyn/Documentos/dio/Aulas de C#/obj/Debug/net8.0/ref/Aulas de C#.dll
